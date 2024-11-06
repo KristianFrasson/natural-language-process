@@ -1,6 +1,6 @@
 # Exercícios Processamento de Linguagem Natural
 
-## Estes exercícios básicos de Processamento de Linguagem Natural (PLN) foram desenvolvidos e orquestrados pelo professor Rodrigo Rafael Villarreal Goulart durante o XVI Simpósio de Informática (SIRC) na Universidade Franciscana (UFN) em Santa Maria, RS. O evento ocorreu nos dias 05 e 06 de novembro de 2024 e incluiu o curso "Processamento da Língua Natural na prática".
+### Estes exercícios básicos de Processamento de Linguagem Natural (PLN) foram desenvolvidos e orquestrados pelo professor Rodrigo Rafael Villarreal Goulart durante o XVI Simpósio de Informática (SIRC) na Universidade Franciscana (UFN) em Santa Maria, RS. O evento ocorreu nos dias 05 e 06 de novembro de 2024 e incluiu o curso "Processamento da Língua Natural na prática".
 
 ### Os exercícios têm como objetivo introduzir os participantes aos conceitos fundamentais de PLN e ao treinamento de Modelos de Linguagem de Grande Escala (LLMs). Os tópicos abordados incluem:
 
